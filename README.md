@@ -13,7 +13,7 @@
 - 🌱 正在深入探索 **LangChain、Qwen-Agent、LangGraph** 等智能体框架，以及 **RAG、向量数据库、Prompt Engineering、MCP Protocol、RerankModel** 技术。
 - ✍️ **CSDN 优质博主**，累计发布 [300+] 篇技术文章，总阅读量 [30] 万+，热爱分享与交流。
 - 💬 欢迎与我探讨 Java 高并发、微服务架构、AI Agent 落地场景。
-- 📫 如何联系我：![CSDN 博客主页]([https://blog.csdn.net/zxc18344522713]) | [个人网站/掘金/知乎等可选]
+- 📫 如何联系我：微信 **javatoai17819112191**（添加请备注“xxx平台添加”） | [CSDN 博客](https://blog.csdn.net/zxc18344522713)
 
 ---
 
