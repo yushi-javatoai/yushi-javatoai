@@ -9,11 +9,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 前 Java 后端开发（7 年经验），现专注于 **AI Agent 应用开发**。
-- 🌱 正在深入探索 **LangChain、AutoGen、CrewAI** 等智能体框架，以及 **RAG、向量数据库、Prompt Engineering** 技术。
-- ✍️ **CSDN 优质博主**，累计发布 [XX] 篇技术文章，总阅读量 [XX] 万+，热爱分享与交流。
+- 🔭 前资深Java 后端开发（7 年经验），现专注于 **AI Agent 应用开发**。
+- 🌱 正在深入探索 **LangChain、Qwen-Agent、LangGraph** 等智能体框架，以及 **RAG、向量数据库、Prompt Engineering、MCP Protocol、RerankModel** 技术。
+- ✍️ **CSDN 优质博主**，累计发布 [300+] 篇技术文章，总阅读量 [30] 万+，热爱分享与交流。
 - 💬 欢迎与我探讨 Java 高并发、微服务架构、AI Agent 落地场景。
-- 📫 如何联系我：**[你的邮箱]** | [CSDN 博客]([你的CSDN博客链接]) | [个人网站/掘金/知乎等可选]
+- 📫 如何联系我：![CSDN 博客主页]([https://blog.csdn.net/zxc18344522713]) | [个人网站/掘金/知乎等可选]
 
 ---
 
@@ -75,7 +75,7 @@
 - [Spring Boot 整合 OpenAI API 实现智能问答](链接)  
 - [向量数据库选型指南：Chroma vs Weaviate vs Qdrant](链接)  
 
-👉 [访问我的 CSDN 主页]([你的CSDN博客链接])
+👉 [访问我的 CSDN 主页]([https://blog.csdn.net/zxc18344522713])
 
 ---
 
