@@ -13,7 +13,26 @@
 - 🌱 正在深入探索 **LangChain、Qwen-Agent、LangGraph** 等智能体框架，以及 **RAG、向量数据库、Prompt Engineering、MCP Protocol、RerankModel** 技术。
 - ✍️ **CSDN全站热榜Top1常驻嘉宾**，专注AI Agent前沿分享，官方认证优质创作者，累计发布 [300+] 篇技术文章，总阅读量 [30] 万+，热爱分享与交流。
 - 💬 欢迎与我探讨 Java 高并发、微服务架构、AI Agent 落地场景。
+- 🏆 **阿里云天池大赛优秀证书**（点击查看）
+  <details>
+  <summary><strong>🔒 点击展开查看阿里云认证证书</strong></summary>
+  <p align="center">
+    <img src="./image/阿里云认证.jpg" alt="阿里云认证证书" width="400" />
+  </p>
+  </details>
 - 📫 如何联系我：微信 **javatoai17819112191**（添加请备注“xxx平台添加”） | [CSDN 博客](https://blog.csdn.net/zxc18344522713)
+
+---
+
+## 🏆 竞赛荣誉 & 能力认证
+阿里云天池官方认证・大数据竞赛优秀成绩，在二手车价格预测、资金流入流出预测两项赛事中均超越官方 Baseline，验证算法建模与数据分析实战能力
+
+<p align="center">
+  <details>
+  <summary><strong>📊 点击查看竞赛成果可视化</strong></summary>
+  <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=阿里云天池大数据竞赛成绩可视化图表，包含二手车价格预测和资金流入流出预测的数据分析图表，专业的数据可视化设计&image_size=landscape_16_9" alt="竞赛成果可视化" width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  </details>
+</p>
 
 ---
 
