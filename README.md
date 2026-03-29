@@ -17,7 +17,7 @@
 
 ---
 
-## 🏆 竞赛荣誉 & 能力认证
+## 🏆 Competition Honors & Certifications
 阿里云天池官方认证・大数据竞赛优秀成绩，在二手车价格预测、资金流入流出预测两项赛事中均超越官方 Baseline，验证算法建模与数据分析实战能力
 
 <p align="center">
