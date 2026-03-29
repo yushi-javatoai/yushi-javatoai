@@ -22,7 +22,7 @@
 
 <p align="center">
   <details>
-  <summary><strong>🏆 点击查看阿里云天池竞赛认证证书</strong></summary>
+  <summary><strong>点击查看阿里云天池竞赛认证</strong></summary>
   <img src="./image/阿里云认证.jpg" alt="阿里云天池竞赛认证证书" width="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </details>
 </p>
