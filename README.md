@@ -29,8 +29,8 @@
 
 <p align="center">
   <details>
-  <summary><strong>📊 点击查看竞赛成果可视化</strong></summary>
-  <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=阿里云天池大数据竞赛成绩可视化图表，包含二手车价格预测和资金流入流出预测的数据分析图表，专业的数据可视化设计&image_size=landscape_16_9" alt="竞赛成果可视化" width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <summary><strong>🏆 点击查看阿里云天池竞赛认证证书</strong></summary>
+  <img src="./image/阿里云认证.jpg" alt="阿里云天池竞赛认证证书" width="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </details>
 </p>
 
