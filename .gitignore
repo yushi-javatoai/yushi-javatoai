@@ -1,0 +1,69 @@
+# 忽略后续拓展优化文件
+后续拓展优化.md
+
+# 忽略操作系统生成的文件
+Thumbs.db
+.DS_Store
+
+# 忽略编辑器目录和文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 忽略临时文件
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# 忽略日志文件
+*.log
+logs/
+
+# 忽略Python生成的文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略Java生成的文件
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# 忽略Maven文件
+target/
+
+# 忽略Gradle文件
+build/
+.gradle/
+
+# 忽略npm文件
+node_modules/
+package-lock.json
+yarn.lock
+
+# 忽略环境变量文件
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 忽略数据库文件
+*.db
+*.sqlite
+*.sqlite3
+
+# 忽略证书和密钥文件
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
