@@ -7,19 +7,12 @@
 
 ---
 
-##👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🔭 资深Java 后端开发（7 年经验），现专注于 **AI Agent 应用开发**。
 - 🌱 正在深入探索 **LangChain、Qwen-Agent、LangGraph** 等智能体框架，以及 **RAG、向量数据库、Prompt Engineering、MCP Protocol、RerankModel** 技术。
 - ✍️ **CSDN全站热榜Top1常驻嘉宾**，专注AI Agent前沿分享，官方认证优质创作者，累计发布 [300+] 篇技术文章，总阅读量 [30] 万+，热爱分享与交流。
 - 💬 欢迎与我探讨 Java 高并发、微服务架构、AI Agent 落地场景。
-- 🏆 **阿里云天池大赛优秀证书**（点击查看）
-  <details>
-  <summary><strong>🔒 点击展开查看阿里云认证证书</strong></summary>
-  <p align="center">
-    <img src="./image/阿里云认证.jpg" alt="阿里云认证证书" width="400" />
-  </p>
-  </details>
 - 📫 如何联系我：微信 **javatoai17819112191**（添加请备注“xxx平台添加”） | [CSDN 博客](https://blog.csdn.net/zxc18344522713)
 
 ---
